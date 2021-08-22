@@ -1,0 +1,11 @@
+Patient Id,Patient First Name,Patient Last Name
+1,Dan,Peter
+
+Code,Description,Cost
+Bill Items:
+ X456, X-RAY Diagnostic Image,$7345.73
+M234,MRI Diagnostic Image,$2459.08
+23,Toothpaste with Floride,$12.08
+21,Tylenol with Acetaminophen,$19.0
+
+Total Cost: ,,$9835.89
